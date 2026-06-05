@@ -1,0 +1,19 @@
+{
+  "workbook": "code-generated",
+  "sheet": "P&L",
+  "historical_columns": ["C", "D", "E", "F", "G"],
+  "forecast_columns": ["H", "I", "J", "K", "L"],
+  "historical_years": [2021, 2022, 2023, 2024, 2025],
+  "row_mapping": {
+    "revenue": 2,
+    "gross_profit": 5,
+    "business_tax_surcharges": 8,
+    "sales_marketing_expenses": 10,
+    "general_admin_expenses": 12,
+    "research_expenses": 14,
+    "operating_profit": 19,
+    "net_interest_expenses": 22,
+    "profit_before_tax": 26,
+    "tax_expenses": 27
+  }
+}

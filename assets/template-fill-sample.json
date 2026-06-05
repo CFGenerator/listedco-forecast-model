@@ -1,0 +1,15 @@
+{
+  "historical_years": [2021, 2022, 2023, 2024, 2025],
+  "historical_financials": {
+    "revenue": [760, 840, 920, 1000, 1120],
+    "gross_profit": [251, 286, 317.4, 350, 403.2],
+    "business_tax_surcharges": [-10, -11, -12, -13, -15],
+    "sales_marketing_expenses": [-63, -68, -74, -80, -88],
+    "general_admin_expenses": [-48, -52, -56, -60, -65],
+    "research_expenses": [-29, -32, -36, -40, -45],
+    "operating_profit": [111, 134, 155, 170, 205],
+    "net_interest_expenses": [0, 0, 0, 0, 0],
+    "profit_before_tax": [111, 134, 155, 170, 205],
+    "tax_expenses": [-28, -33, -39, -42, -51]
+  }
+}
